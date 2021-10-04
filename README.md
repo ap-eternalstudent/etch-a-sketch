@@ -6,4 +6,4 @@
 
 ### Enjoy!
 
-[etch-a-sketch gif](https://raw.githubusercontent.com/ap-eternalstudent/etch-a-sketch/main/gui.gif)
+![etch-a-sketch gif](https://raw.githubusercontent.com/ap-eternalstudent/etch-a-sketch/main/gui.gif)
